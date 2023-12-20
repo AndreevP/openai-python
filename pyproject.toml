@@ -1,5 +1,5 @@
 [project]
-name = "openai"
+name = "openai_new"
 version = "1.6.0"
 description = "The official Python library for the openai API"
 readme = "README.md"
